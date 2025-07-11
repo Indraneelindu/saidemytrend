@@ -9,8 +9,8 @@
     </parent>
     <groupId>com.saidemy</groupId>
     <artifactId>demo-workshop</artifactId>
-    <version>2.1.2</version>
-    <name>demo-workshop</name>
+    <version>3.2.1</version>
+    <name>Indu</name>
     <packaging>jar</packaging>
     <description>Demo project for Spring Boot</description>
 
